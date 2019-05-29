@@ -253,7 +253,7 @@ Data de Entrega final: (Data a ser definida)
 
 
 Link para BrModelo:<br>
-http://sis4.com/brModelo/brModelo/download.html
+http://www.sis4.com/brModelo/download.html
 <br>
 
 
